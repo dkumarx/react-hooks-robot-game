@@ -1,7 +1,7 @@
 # react-hooks-robot-game
 React Hooks robot game
 
-# This is simple ROBOT game which is allowed to move on borad.
+# This is simple ROBOT game
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
