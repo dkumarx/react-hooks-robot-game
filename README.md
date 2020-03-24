@@ -3,6 +3,8 @@ React Hooks robot game
 
 # This is simple ROBOT game
 
+Ref: Use Material UI for styling - https://material-ui.com/getting-started/installation/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
